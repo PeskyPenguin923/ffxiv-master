@@ -1,6 +1,63 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
     background-color: rgb(18, 26, 33);
+    box-sizing: border-box;
+    color: white;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: larger;
+    font-weight: bolder;
+    padding: .5%;
+    background-color: rgb(39, 39, 141);
+}
+
+.lt-header {
+    padding-left: 10%;
+}
+
+
+.rt-header {
+    padding-right: 10%;
+}
+
+.s-title {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: bold;
+    padding: 2%;
+}
+
+.mc-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.s-content {
+    display: flex;
+    justify-content: center;
+    width: max-content;
+}
+
+.link-container {
+    margin: 2%;
+}
+
+.link-description {
+    font-weight: bold;
+    width: max-content;
+}
+
+.link {
+    padding: 1%;
+    width: max-content;
+}
+
+.link a {
+    color: white;
 }
