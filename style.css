@@ -8,32 +8,34 @@ body {
 
 .site-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: larger;
     font-weight: bolder;
     padding: .5%;
     background-color: rgb(39, 39, 141);
 }
 
-.lt-header {
-    padding-left: 10%;
+.header-item {
+    padding: 2%;
 }
 
 
-.rt-header {
-    padding-right: 10%;
-}
 
 .menu {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(50px, 200px));
     justify-content: space-around;
     padding: .3%;
+    background-color: rgb(39, 39, 141);
 }
 
 .category {
     display: flex;
     justify-content: center;
+}
+
+.category a {
+    color: white;
 }
 
 .s-title {
