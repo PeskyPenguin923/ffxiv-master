@@ -24,6 +24,18 @@ body {
     padding-right: 10%;
 }
 
+.menu {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 200px));
+    justify-content: space-around;
+    padding: .3%;
+}
+
+.category {
+    display: flex;
+    justify-content: center;
+}
+
 .s-title {
     display: flex;
     justify-content: center;
