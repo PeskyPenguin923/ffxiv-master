@@ -1,7 +1,7 @@
 End Game
-Guides/Resources - ahkmorning
-Job Guides - icy-viens
-Job Guides - The balance
+Guides/Resources - ahkmorning https://www.akhmorning.com/
+Job Guides - icy-viens https://www.icy-veins.com/ffxiv/
+Job Guides - The balance https://www.thebalanceffxiv.com/
 Rotations/Encounters - Saltedxiv
 Gearset Sharing - etro.gg
 
